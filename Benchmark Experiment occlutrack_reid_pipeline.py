@@ -24,7 +24,7 @@
     └─────────────────────┘
 
   WHAT IS IDENTICAL TO THE 6 Re-ID EXPERIMENTS:
-    • Trained YOLO11 loader (same fallback chain)
+    • YOLO11  (same fallback chain)
     • Kalman Filter — same 7-state formulation + dynamic Q inflation
     • 4-state track machine: TENTATIVE → CONFIRMED → OCCLUDED → LOST
     • occlusion_duration tracking + 150-frame max lifetime
